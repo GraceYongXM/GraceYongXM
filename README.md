@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Grace, an aspiring <i>full-stack software developer<i>!
+
+🔭 I’m currently working on a full-stack Map feature & my [personal website](https://graceyongxm.github.io) (WIP)
+<br>
+🌱 I’m currently learning up & coming web development frameworks such as <strong>Django & Vue<strong>!
+
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceYongXM&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+⚡ Fun fact: I'm extremely interested in the FinTech & MedTech space
 
 <!--
 **GraceYongXM/GraceYongXM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
